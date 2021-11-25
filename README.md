@@ -17,3 +17,36 @@
 |1|90|aditya|cse|
 |2|b0|aditya|cse|
 |3|97|aditya|cse|
+
+#list
+##ordered list
+
+1.tv shows
+2.web series
+3.movies
+##unordered list
+
+-friends
+-prison
+-young sheldon
+or 
+*friends
+*prison
+*young sheldon
+#nested lists
+1.friends
+ 1.rach
+ 2.mon
+ 3.phebe
+2.prison
+ 1.sco
+ 2.sara
+3.young sheldon
+ -sheldon
+ -becky
+
+'''python code
+   a=10
+   b=20
+   sum=(a+b)
+'''
